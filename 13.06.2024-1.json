@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Atkinson",
+    "age": 76,
+    "address": {
+        "street": "Tristan Field",
+        "city": "New Christina",
+        "state": "Alaska",
+        "zip": "82166"
+    },
+    "contact": {
+        "phone": "001-572-780-3787x6863",
+        "servicePhone": "800528247"
+    },
+    "birthday": "1949-20-07",
+    "ip": "148.171.13.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality seem approach cover development truth well.\nThousand PM race avoid. Father impact drive my. Just deal kid design production price center.",
+        "bio": "Rich energy take provide.\nWind wear throw bill let vote factor. Join kind operation group."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
