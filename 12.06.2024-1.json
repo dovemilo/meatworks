@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Schultz",
+    "age": 86,
+    "address": {
+        "street": "Stone Mountain",
+        "city": "New Joshua",
+        "state": "Indiana",
+        "zip": "14304"
+    },
+    "contact": {
+        "phone": "(306)390-5942",
+        "servicePhone": "800457730"
+    },
+    "birthday": "1939-14-09",
+    "ip": "145.158.61.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer oil case control serious management wife camera. No do human anything decide thought. Realize account thus foot catch attention six ten.",
+        "bio": "Seat whatever after reason news family hour. Treat everybody catch wear.\nYou identify crime direction. Tell truth short respond fine admit happen huge."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
