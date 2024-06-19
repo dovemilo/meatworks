@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Wyatt",
+    "age": 16,
+    "address": {
+        "street": "Russell Estates",
+        "city": "North Kathy",
+        "state": "Iowa",
+        "zip": "40877"
+    },
+    "contact": {
+        "phone": "001-941-306-3099x5929",
+        "servicePhone": "800578374"
+    },
+    "birthday": "2009-17-10",
+    "ip": "114.197.103.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Against manager language.\nThrow tend site system. Others staff discover scientist describe.\nAgency lead record four when. Upon send firm receive Mr everyone later.",
+        "bio": "Politics particularly second. Treat treatment parent letter. Many thus office prepare.\nMove pattern pretty reason billion some career grow. Cut fill student my."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
