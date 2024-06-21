@@ -1,0 +1,25 @@
+{
+    "name": "Christine Hamilton",
+    "age": 84,
+    "address": {
+        "street": "James Lights",
+        "city": "Lake James",
+        "state": "Oregon",
+        "zip": "79692"
+    },
+    "contact": {
+        "phone": "882.916.1933",
+        "servicePhone": "800594897"
+    },
+    "birthday": "1941-10-06",
+    "ip": "218.243.202.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Not food part feel military collection. Other trouble life doctor.\nIt international difficult sport tough feeling. Himself travel issue region.",
+        "bio": "Foot hit improve break movie. Major any pressure alone hear arm born claim. Black suddenly make Democrat our.\nPoor step like cell. Road attention wide although. Eat thought their he off side pick."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
