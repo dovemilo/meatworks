@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Johnson",
+    "age": 106,
+    "address": {
+        "street": "Jesus Stravenue",
+        "city": "Michaelmouth",
+        "state": "Iowa",
+        "zip": "60339"
+    },
+    "contact": {
+        "phone": "286-938-8875",
+        "servicePhone": "800389669"
+    },
+    "birthday": "1919-05-01",
+    "ip": "192.158.15.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge culture administration recently. All issue issue teach environment wrong. Place per continue smile guess.",
+        "bio": "Music at body able too nor push. Main employee organization beyond change. Watch growth suffer person site."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
