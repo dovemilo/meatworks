@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Carlson",
+    "age": 24,
+    "address": {
+        "street": "Norris Coves",
+        "city": "Lake Julieburgh",
+        "state": "Montana",
+        "zip": "12834"
+    },
+    "contact": {
+        "phone": "001-238-237-8802x0141",
+        "servicePhone": "800041831"
+    },
+    "birthday": "2001-17-09",
+    "ip": "94.174.46.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Write despite interesting nature bill imagine real. Data art environment between war. Today detail see process contain pretty any.",
+        "bio": "Street size nearly. Remember strong along expect return money."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
