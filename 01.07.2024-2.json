@@ -1,0 +1,25 @@
+{
+    "name": "Steven Hampton",
+    "age": 62,
+    "address": {
+        "street": "Michelle Landing",
+        "city": "Jessicaport",
+        "state": "Illinois",
+        "zip": "23065"
+    },
+    "contact": {
+        "phone": "355.452.4374",
+        "servicePhone": "800064221"
+    },
+    "birthday": "1963-19-12",
+    "ip": "196.254.228.226",
+    "foo": "bar",
+    "profile": {
+        "about": "See field new interesting. Whatever budget thought near. Strategy together hair.\nExplain minute set fact read ready. Heavy business represent remain law house cell move.",
+        "bio": "Own economy kind outside require travel clear. Activity investment could. Something fly catch effect film through phone."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
