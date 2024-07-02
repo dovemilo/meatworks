@@ -1,0 +1,25 @@
+{
+    "name": "Devin Brown",
+    "age": 11,
+    "address": {
+        "street": "Harris Stravenue",
+        "city": "New Rachelhaven",
+        "state": "Washington",
+        "zip": "96959"
+    },
+    "contact": {
+        "phone": "831.231.7060",
+        "servicePhone": "800575845"
+    },
+    "birthday": "2014-02-12",
+    "ip": "8.224.112.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Pm western in computer dinner strong. Sit world plant significant.\nOut consumer PM just front add sport laugh. Voice plant yeah foot less magazine.\nProve care audience.",
+        "bio": "Here follow turn under friend work yeah. Study business chance pick standard.\nInside camera require consider push. American while condition training happen. Worry produce recognize experience."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
