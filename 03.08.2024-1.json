@@ -1,0 +1,25 @@
+{
+    "name": "Brian Jones",
+    "age": 90,
+    "address": {
+        "street": "Garcia Squares",
+        "city": "East Charleneborough",
+        "state": "Missouri",
+        "zip": "19629"
+    },
+    "contact": {
+        "phone": "(471)479-9284",
+        "servicePhone": "800995909"
+    },
+    "birthday": "1935-12-07",
+    "ip": "66.129.149.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Point break develop plan mean. May health skill parent recent. Else major kind.",
+        "bio": "Tree buy decade parent rather. Address it teacher more senior different. Phone Republican health free Republican. Manage they enough within.\nClearly none blood. Gun participant nor white no."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
