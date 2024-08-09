@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Tran",
+    "age": 59,
+    "address": {
+        "street": "Mary Ways",
+        "city": "Brownhaven",
+        "state": "Iowa",
+        "zip": "52749"
+    },
+    "contact": {
+        "phone": "+1-340-598-9301x8072",
+        "servicePhone": "800482835"
+    },
+    "birthday": "1966-03-04",
+    "ip": "71.65.129.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Military five raise ok. Inside happen young when serious consumer.\nEducation suffer news particular American. From senior outside add fish.\nLike fall several of seat again cost.",
+        "bio": "Red human much only eat oil. Board same senior.\nView remember western far hour. Center investment process per lead. Pattern another trip none career course maintain own."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
