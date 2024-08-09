@@ -1,0 +1,25 @@
+{
+    "name": "Robert Cox",
+    "age": 51,
+    "address": {
+        "street": "Allison Wells",
+        "city": "Kristieton",
+        "state": "Minnesota",
+        "zip": "95891"
+    },
+    "contact": {
+        "phone": "001-261-415-0348",
+        "servicePhone": "800186401"
+    },
+    "birthday": "1974-30-06",
+    "ip": "113.6.125.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper management compare build eat risk quality stand. Idea important Mrs film sign teacher pattern. More recently family vote third million raise.",
+        "bio": "Including other stand upon respond. Brother smile bill Democrat ball age. Somebody current receive within lay community born.\nConference life reality number difference decade single."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
