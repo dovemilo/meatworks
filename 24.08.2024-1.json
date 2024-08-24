@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Blake",
+    "age": 100,
+    "address": {
+        "street": "Mcdaniel Crossing",
+        "city": "New Davidport",
+        "state": "Pennsylvania",
+        "zip": "39307"
+    },
+    "contact": {
+        "phone": "7676351189",
+        "servicePhone": "800151659"
+    },
+    "birthday": "1925-19-10",
+    "ip": "71.154.246.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten per rather provide five read. The half star.\nNor meeting science skill religious safe present. Product billion whatever poor.",
+        "bio": "Continue degree eight. Upon crime born. Year father ok.\nSon walk child fact feeling month. Almost water including describe institution fine region. Side these bag view."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
