@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Sanchez",
+    "age": 29,
+    "address": {
+        "street": "Heather Spring",
+        "city": "Lake Mary",
+        "state": "New York",
+        "zip": "85920"
+    },
+    "contact": {
+        "phone": "+1-576-678-1017",
+        "servicePhone": "800725896"
+    },
+    "birthday": "1996-06-04",
+    "ip": "50.19.183.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Your red fire food. Executive view forget minute. Take same garden food call.\nHalf discuss always level skill. Effort ground forward executive describe why name.",
+        "bio": "Enjoy station offer in. Feeling win loss worker ask.\nAlso prevent organization old something collection or.\nSon network matter our land discover. Nor office safe four personal reduce word."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
