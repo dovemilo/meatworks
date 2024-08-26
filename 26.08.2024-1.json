@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Carter",
+    "age": 22,
+    "address": {
+        "street": "Jackie Orchard",
+        "city": "Timmouth",
+        "state": "Tennessee",
+        "zip": "19429"
+    },
+    "contact": {
+        "phone": "+1-591-970-4754",
+        "servicePhone": "800629287"
+    },
+    "birthday": "2003-30-03",
+    "ip": "161.211.209.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Military free data at crime. Compare agreement single may institution.\nChange plant in might around interview.",
+        "bio": "Lose season actually effort season him others. Sense step lead easy place.\nHour public safe push write. Serious their report. Industry plant customer animal three red."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
