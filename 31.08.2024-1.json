@@ -1,0 +1,25 @@
+{
+    "name": "Angela Bailey",
+    "age": 116,
+    "address": {
+        "street": "Richardson Corner",
+        "city": "Port Kaylaland",
+        "state": "New Mexico",
+        "zip": "47718"
+    },
+    "contact": {
+        "phone": "001-624-695-8716x230",
+        "servicePhone": "800140091"
+    },
+    "birthday": "1909-06-06",
+    "ip": "73.227.228.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel window world population and. However scientist nothing behavior majority. Defense exactly bank society.",
+        "bio": "Cost second Congress maybe take join job.\nHistory coach stay pick fall parent. Suffer member decade bed action way teacher. Might state me woman company window."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
