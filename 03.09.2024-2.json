@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Spencer",
+    "age": 41,
+    "address": {
+        "street": "Joshua Spur",
+        "city": "North Kristen",
+        "state": "Nevada",
+        "zip": "45111"
+    },
+    "contact": {
+        "phone": "605-479-9952",
+        "servicePhone": "800527114"
+    },
+    "birthday": "1984-12-07",
+    "ip": "181.28.66.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider interest support his spend song. Expert role trip require. Computer old voice risk.\nArt task account party challenge position management. It between before tree.",
+        "bio": "Manage position prevent whatever professional science bag.\nNothing land possible movement computer. Particularly behavior choice field rise there commercial method."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
