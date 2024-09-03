@@ -1,0 +1,25 @@
+{
+    "name": "Jared Martinez",
+    "age": 86,
+    "address": {
+        "street": "Alexander Bypass",
+        "city": "Williamsbury",
+        "state": "Louisiana",
+        "zip": "63183"
+    },
+    "contact": {
+        "phone": "(589)646-0815",
+        "servicePhone": "800314918"
+    },
+    "birthday": "1939-14-01",
+    "ip": "85.101.72.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Area who record together bag. Face meet who voice movie. Sell body Republican production woman. Cost statement soon program attack cultural hospital.",
+        "bio": "If create some unit treatment blue appear wife. Rich soon news yourself much same."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
