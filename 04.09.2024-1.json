@@ -1,0 +1,25 @@
+{
+    "name": "Mark Cross",
+    "age": 69,
+    "address": {
+        "street": "Jeffrey Fort",
+        "city": "Dwaynefort",
+        "state": "Wyoming",
+        "zip": "63173"
+    },
+    "contact": {
+        "phone": "(904)417-1520",
+        "servicePhone": "800834246"
+    },
+    "birthday": "1956-24-07",
+    "ip": "154.216.53.110",
+    "foo": "bar",
+    "profile": {
+        "about": "He program room call somebody himself itself go. None apply stop business evening. Return cover the meet father management professional.\nCarry place business hear Mr. Ability I send defense write.",
+        "bio": "Use response future sort eight lot. Watch ability himself use whatever manager unit several. Window usually church behavior specific.\nGrowth modern beautiful certainly turn form."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
