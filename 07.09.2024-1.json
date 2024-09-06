@@ -1,0 +1,25 @@
+{
+    "name": "Diane Brown",
+    "age": 30,
+    "address": {
+        "street": "David Road",
+        "city": "North Heidi",
+        "state": "Oklahoma",
+        "zip": "05317"
+    },
+    "contact": {
+        "phone": "3234375284",
+        "servicePhone": "800842128"
+    },
+    "birthday": "1995-08-10",
+    "ip": "182.109.188.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Production may maybe cold also compare nation. Safe analysis rock well. Treat second tough blood live game small sign.\nRange themselves agree style top level operation.",
+        "bio": "Trial present next station represent north. Rich at pretty answer ok. Network throw behind life."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
