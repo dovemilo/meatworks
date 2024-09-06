@@ -1,0 +1,25 @@
+{
+    "name": "John Fernandez",
+    "age": 81,
+    "address": {
+        "street": "Weber Unions",
+        "city": "East Thomashaven",
+        "state": "Washington",
+        "zip": "81988"
+    },
+    "contact": {
+        "phone": "+1-838-503-3433x0266",
+        "servicePhone": "800165844"
+    },
+    "birthday": "1944-07-11",
+    "ip": "22.188.100.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Better world staff never above high should allow. Decade involve still describe charge within. Off environmental station several those.",
+        "bio": "General produce remember back create. Feel option glass decade I.\nNo protect raise nearly second health. Continue activity than nor risk bad. To your read nothing."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
