@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Hill",
+    "age": 53,
+    "address": {
+        "street": "Kimberly Parkways",
+        "city": "Port Amberfort",
+        "state": "Vermont",
+        "zip": "43853"
+    },
+    "contact": {
+        "phone": "+1-883-461-0481x47330",
+        "servicePhone": "800674484"
+    },
+    "birthday": "1972-22-08",
+    "ip": "53.101.215.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Week usually drop response. Despite whose raise. Have blue game able six heavy.\nHeart section bit contain speech. Fill miss build allow large hit forward. Stay easy do area manager above process.",
+        "bio": "Ago set tough bad as know. One but join.\nLot organization purpose prepare along. Sea land majority feeling always."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
