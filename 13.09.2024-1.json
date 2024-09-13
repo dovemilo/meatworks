@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Meza",
+    "age": 72,
+    "address": {
+        "street": "Randall Trail",
+        "city": "Franciscostad",
+        "state": "Hawaii",
+        "zip": "06442"
+    },
+    "contact": {
+        "phone": "(543)726-1684x3328",
+        "servicePhone": "800166161"
+    },
+    "birthday": "1953-07-04",
+    "ip": "73.218.131.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist once cold drug wide. Believe remain method. Drive amount cell team effort change.\nCoach artist lose claim however religious game. Forget good enter despite.",
+        "bio": "Through thing black plan skill room theory. Born create total purpose create travel risk."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
