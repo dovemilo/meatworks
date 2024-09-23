@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Carter",
+    "age": 81,
+    "address": {
+        "street": "Tonya Extension",
+        "city": "Adrianview",
+        "state": "Colorado",
+        "zip": "24249"
+    },
+    "contact": {
+        "phone": "(993)932-0076x21822",
+        "servicePhone": "800853715"
+    },
+    "birthday": "1944-29-12",
+    "ip": "223.239.146.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Either back catch benefit everything. Spend human yard night life.\nCultural grow very take model magazine piece. City suffer consumer contain.",
+        "bio": "Part suffer good agree truth. Fall describe step source. Notice beat develop smile I.\nOff eight guess hand. Quickly his mission material culture exist authority. Draw sound rock."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
