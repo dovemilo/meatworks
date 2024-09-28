@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Rogers",
+    "age": 7,
+    "address": {
+        "street": "Harper Squares",
+        "city": "Laurafort",
+        "state": "Colorado",
+        "zip": "91650"
+    },
+    "contact": {
+        "phone": "(372)358-4208x20321",
+        "servicePhone": "800890968"
+    },
+    "birthday": "2018-17-09",
+    "ip": "59.114.169.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Down how hot good north begin. Each culture situation share address. Special season trial sign data.\nSix number kid less attack. Time sort save hundred.",
+        "bio": "Scientist benefit garden improve eye as art. Whole house nearly throughout behind. Throughout young campaign."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
