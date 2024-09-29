@@ -1,0 +1,25 @@
+{
+    "name": "Justin Fields",
+    "age": 44,
+    "address": {
+        "street": "Jones Viaduct",
+        "city": "New Laura",
+        "state": "New Jersey",
+        "zip": "57403"
+    },
+    "contact": {
+        "phone": "001-446-521-5364",
+        "servicePhone": "800994875"
+    },
+    "birthday": "1981-10-04",
+    "ip": "7.247.113.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Close late worker around also quickly. Beat its call out child only.\nYes wife particular his church able. Grow current stop weight best continue. Someone indicate trade crime remember civil.",
+        "bio": "Professor wall hard one center end trade. Arm college stop situation over dream land street."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
