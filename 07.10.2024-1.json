@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Valdez",
+    "age": 33,
+    "address": {
+        "street": "Louis Rue",
+        "city": "North Andrewburgh",
+        "state": "Colorado",
+        "zip": "09895"
+    },
+    "contact": {
+        "phone": "516.705.6124",
+        "servicePhone": "800750010"
+    },
+    "birthday": "1992-02-06",
+    "ip": "153.218.121.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Member entire make. Majority crime study skin since full stand. Miss role brother production speech.\nPlant get cover little budget family write happen. Buy floor too relationship especially.",
+        "bio": "Watch small kitchen cultural draw present see practice. Really rich daughter any mother listen nation."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
