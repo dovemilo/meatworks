@@ -1,0 +1,25 @@
+{
+    "name": "Amy Stephenson",
+    "age": 30,
+    "address": {
+        "street": "Foster Mews",
+        "city": "New Adam",
+        "state": "Illinois",
+        "zip": "02961"
+    },
+    "contact": {
+        "phone": "+1-660-403-4101",
+        "servicePhone": "800266352"
+    },
+    "birthday": "1995-19-04",
+    "ip": "81.173.77.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose decade garden likely movie happen. Hope road level see kitchen.\nCarry husband week education bag. News meeting of organization really. Them remain drug.",
+        "bio": "Way rule young human spring summer season.\nParticular focus save beat most recent. Cause including type.\nFar scene add life."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
