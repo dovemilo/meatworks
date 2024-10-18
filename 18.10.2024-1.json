@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Schroeder",
+    "age": 31,
+    "address": {
+        "street": "Lee Gateway",
+        "city": "North Angelaton",
+        "state": "Texas",
+        "zip": "62054"
+    },
+    "contact": {
+        "phone": "951.913.5077x085",
+        "servicePhone": "800095605"
+    },
+    "birthday": "1994-16-06",
+    "ip": "204.211.87.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Region wonder benefit teach part alone.",
+        "bio": "Then maybe industry tonight theory lot town. Value small deep life unit. Result official various nice wall produce."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
