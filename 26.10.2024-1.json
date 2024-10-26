@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Weiss",
+    "age": 15,
+    "address": {
+        "street": "Mayer Haven",
+        "city": "Lake Justinmouth",
+        "state": "Maryland",
+        "zip": "19512"
+    },
+    "contact": {
+        "phone": "771.250.7927",
+        "servicePhone": "800751340"
+    },
+    "birthday": "2010-05-05",
+    "ip": "161.89.194.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate employee continue federal put usually soldier. Reveal former north travel cause speak stage. Table stage speech law American. Perhaps director church drive ask you until off.",
+        "bio": "Son here reflect some what. Agent agree age discover. Heart movement avoid budget.\nStrong evidence assume evening task through. Night more best shoulder him only. Let hot civil past down."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
