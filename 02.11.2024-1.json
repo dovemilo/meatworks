@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Curry",
+    "age": 94,
+    "address": {
+        "street": "Williams Rest",
+        "city": "Gomezbury",
+        "state": "Maryland",
+        "zip": "25247"
+    },
+    "contact": {
+        "phone": "641.945.1415x7038",
+        "servicePhone": "800483028"
+    },
+    "birthday": "1931-08-08",
+    "ip": "23.156.201.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone use place boy represent season a statement.\nNewspaper rise mission member. Able evidence music.\nCommercial month any. Main give many for fund development.",
+        "bio": "As heart information without hold money. Health author ask myself early.\nDown and process election whole finish."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
