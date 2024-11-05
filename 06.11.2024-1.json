@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Riddle",
+    "age": 54,
+    "address": {
+        "street": "Brown Mount",
+        "city": "West Mark",
+        "state": "New Jersey",
+        "zip": "08025"
+    },
+    "contact": {
+        "phone": "001-767-464-0066x4468",
+        "servicePhone": "800739996"
+    },
+    "birthday": "1971-18-09",
+    "ip": "210.230.136.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade throw impact suffer eye she husband. Federal high few several economy.\nExpert list bit factor. Simply exactly author stage never.",
+        "bio": "Relate agency case decision ask particular. Leave Congress seat. Even per least cover.\nHard outside off keep sport most wrong. Energy about from you impact chair. Often long happy amount war."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
