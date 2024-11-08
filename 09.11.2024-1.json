@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Rice",
+    "age": 25,
+    "address": {
+        "street": "Michael Cliffs",
+        "city": "North Anthony",
+        "state": "Rhode Island",
+        "zip": "76548"
+    },
+    "contact": {
+        "phone": "001-498-715-3123x41949",
+        "servicePhone": "800114571"
+    },
+    "birthday": "2000-18-01",
+    "ip": "190.60.119.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure add democratic actually medical short. Interest chance sense many friend town not.",
+        "bio": "Customer policy pass dog especially grow create. I total way support. Of site while animal piece wait."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
