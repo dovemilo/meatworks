@@ -1,0 +1,25 @@
+{
+    "name": "Randy Hanson",
+    "age": 100,
+    "address": {
+        "street": "Fields Mountains",
+        "city": "Hartburgh",
+        "state": "Colorado",
+        "zip": "19306"
+    },
+    "contact": {
+        "phone": "+1-586-446-6794x55154",
+        "servicePhone": "800358363"
+    },
+    "birthday": "1925-17-02",
+    "ip": "121.191.117.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire last another rock everything.\nNature light family wrong community indeed. Offer carry computer conference about trade. Age such his picture upon.",
+        "bio": "Technology five Mr instead red movie population. Only Democrat table someone black country. Note gun never wear surface race step."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
