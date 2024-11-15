@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Price",
+    "age": 66,
+    "address": {
+        "street": "Alex Junction",
+        "city": "Browntown",
+        "state": "Maine",
+        "zip": "78972"
+    },
+    "contact": {
+        "phone": "+1-674-306-6280x33504",
+        "servicePhone": "800761427"
+    },
+    "birthday": "1959-05-03",
+    "ip": "166.238.125.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit effect only worker along require young. Less man response traditional. Mrs school relate inside leg.\nPoor cell current happen chair. Best evening half phone against necessary sister former.",
+        "bio": "Fund heavy table might admit. Could thousand weight same citizen teach."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
