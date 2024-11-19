@@ -1,0 +1,25 @@
+{
+    "name": "Karina Brandt",
+    "age": 76,
+    "address": {
+        "street": "Rodriguez Via",
+        "city": "New Justinstad",
+        "state": "New Hampshire",
+        "zip": "88008"
+    },
+    "contact": {
+        "phone": "+1-856-949-9116x3021",
+        "servicePhone": "800839588"
+    },
+    "birthday": "1949-28-05",
+    "ip": "121.111.85.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip interest what machine week argue. Teach less control child.\nMuch relate trip exist form place. Fly great affect single class rise role. Real kitchen support almost mind.",
+        "bio": "Development outside continue political activity. Cut their career sometimes.\nDetermine present choose space any. Democratic which third moment claim than. Husband play inside agency here."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
