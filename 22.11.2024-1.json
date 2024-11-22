@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Sanchez",
+    "age": 87,
+    "address": {
+        "street": "Mcguire Walks",
+        "city": "Amandaland",
+        "state": "Washington",
+        "zip": "98487"
+    },
+    "contact": {
+        "phone": "7137094172",
+        "servicePhone": "800938592"
+    },
+    "birthday": "1938-01-10",
+    "ip": "1.120.68.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase adult who. How table simply street.\nThing player power why. Town when give with go sign above.",
+        "bio": "Education southern tend behind detail carry your. Kitchen down daughter weight key."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
