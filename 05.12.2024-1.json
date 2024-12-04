@@ -1,0 +1,25 @@
+{
+    "name": "Michael Finley",
+    "age": 102,
+    "address": {
+        "street": "Tanner Lock",
+        "city": "East Raymond",
+        "state": "South Dakota",
+        "zip": "93076"
+    },
+    "contact": {
+        "phone": "(594)734-3637x508",
+        "servicePhone": "800922284"
+    },
+    "birthday": "1923-04-08",
+    "ip": "207.74.110.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Face attack pressure institution actually. Matter final force watch. Provide society nearly trip building actually.",
+        "bio": "Play responsibility about especially catch information. Section key discuss all true. Shake number war.\nTeam bank green then. Particularly big rise. Side individual health half."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
