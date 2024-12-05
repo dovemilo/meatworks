@@ -1,0 +1,25 @@
+{
+    "name": "Michael Jackson",
+    "age": 85,
+    "address": {
+        "street": "Conrad Ridge",
+        "city": "Port Jacqueline",
+        "state": "Arizona",
+        "zip": "23336"
+    },
+    "contact": {
+        "phone": "+1-257-258-0350x93133",
+        "servicePhone": "800999515"
+    },
+    "birthday": "1940-12-09",
+    "ip": "86.8.52.55",
+    "foo": "bar",
+    "profile": {
+        "about": "My option ground course station store. Several amount stand message customer again four.\nThemselves blue condition generation relationship art.",
+        "bio": "Then model throw tax. Safe former air indicate time. Each safe have as task true.\nInterest student certainly security force. Anything according away notice throw pretty. Base such arrive live."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
