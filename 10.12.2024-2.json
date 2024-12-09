@@ -1,0 +1,25 @@
+{
+    "name": "Roberto Lynch",
+    "age": 3,
+    "address": {
+        "street": "Gregory Square",
+        "city": "East Robert",
+        "state": "Arizona",
+        "zip": "21828"
+    },
+    "contact": {
+        "phone": "+1-772-991-0719x27594",
+        "servicePhone": "800385570"
+    },
+    "birthday": "2022-18-11",
+    "ip": "5.150.129.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Get table standard option guess follow reality. Response story leader stop.\nAble my develop out summer reason miss. Staff evening million people just ball become.",
+        "bio": "Daughter far maintain body figure military. Call exactly blue name opportunity lay.\nHis professional card pull. Certainly relate close."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
