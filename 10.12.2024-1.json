@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Scott",
+    "age": 47,
+    "address": {
+        "street": "Lisa Extensions",
+        "city": "North Barbara",
+        "state": "Wisconsin",
+        "zip": "77981"
+    },
+    "contact": {
+        "phone": "452.818.6727x9023",
+        "servicePhone": "800752640"
+    },
+    "birthday": "1978-01-03",
+    "ip": "114.28.215.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly or admit point order quickly. Get beautiful arrive huge anything. Food open better this.",
+        "bio": "President management ok write hard prepare. Popular financial Democrat professional.\nDetermine cut true these at enough science sometimes. Speak concern card size information structure."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
