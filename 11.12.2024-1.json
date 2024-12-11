@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Steven Davenport",
+    "age": 52,
+    "address": {
+        "street": "Matthew Station",
+        "city": "Jessicafort",
+        "state": "Iowa",
+        "zip": "65835"
+    },
+    "contact": {
+        "phone": "(778)458-8866",
+        "servicePhone": "800899252"
+    },
+    "birthday": "1973-14-10",
+    "ip": "163.14.153.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Better radio affect job. Check executive morning third improve.\nTop often Republican last. Debate situation present area over risk. Head ago state trade.\nSeat let stop necessary part.",
+        "bio": "According food across likely meet. Structure family investment let better least. Front culture senior son trouble.\nProfessional season building evidence best us threat. Job stock allow knowledge."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
