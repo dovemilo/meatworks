@@ -1,0 +1,25 @@
+{
+    "name": "Louis Diaz",
+    "age": 77,
+    "address": {
+        "street": "William Knoll",
+        "city": "Reesechester",
+        "state": "Maine",
+        "zip": "42184"
+    },
+    "contact": {
+        "phone": "001-578-483-3395x896",
+        "servicePhone": "800991039"
+    },
+    "birthday": "1948-04-09",
+    "ip": "10.193.101.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop memory skin science star production family suddenly. Discuss pretty each nearly ready people group. Animal happy everything evidence maintain seem.",
+        "bio": "Deal both end difficult reason. Draw nearly sound enjoy over.\nOperation body job likely. Opportunity response western will sport crime term. Someone understand worry hot carry arm a."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
