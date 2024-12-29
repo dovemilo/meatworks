@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Clark MD",
+    "age": 23,
+    "address": {
+        "street": "Cohen Plain",
+        "city": "New Angela",
+        "state": "Oregon",
+        "zip": "82125"
+    },
+    "contact": {
+        "phone": "(896)496-5367x2381",
+        "servicePhone": "800415485"
+    },
+    "birthday": "2002-08-07",
+    "ip": "155.102.248.164",
+    "foo": "bar",
+    "profile": {
+        "about": "People off nothing cut. Listen glass stand true ready of.\nSpeech return off. Speech sister structure model.",
+        "bio": "Learn investment baby sister she line.\nFive compare heavy good yard western. Ability form cell near air. Allow whether station."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
