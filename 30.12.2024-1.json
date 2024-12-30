@@ -1,0 +1,25 @@
+{
+    "name": "Eric Powers",
+    "age": 57,
+    "address": {
+        "street": "Rebecca Plains",
+        "city": "East Reginaldshire",
+        "state": "Nebraska",
+        "zip": "90754"
+    },
+    "contact": {
+        "phone": "(624)214-9940",
+        "servicePhone": "800757946"
+    },
+    "birthday": "1968-23-12",
+    "ip": "143.49.55.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal stay move against. Effort involve start hundred wonder throw. Machine team nothing call.\nDown specific government both when suggest. Ahead free thank whole.",
+        "bio": "Professor choice push bag. Thousand miss sometimes center.\nAir entire yes. Common item fall break foreign. Pretty public form what marriage ground travel."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
