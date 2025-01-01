@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Gordon",
+    "age": 73,
+    "address": {
+        "street": "Aaron Underpass",
+        "city": "Smithville",
+        "state": "Illinois",
+        "zip": "61947"
+    },
+    "contact": {
+        "phone": "932-306-4100x145",
+        "servicePhone": "800459983"
+    },
+    "birthday": "1952-28-01",
+    "ip": "81.103.91.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone road nor but. Let any deal positive buy decision become suggest.\nHim prepare daughter listen teach particularly. High leave billion wear hard politics daughter.",
+        "bio": "Recently any none laugh. Standard office arrive drive thought take financial today."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
