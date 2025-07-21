@@ -1,0 +1,25 @@
+{
+    "name": "Mary Lee",
+    "age": 76,
+    "address": {
+        "street": "Robbins Estate",
+        "city": "North Peterton",
+        "state": "Idaho",
+        "zip": "98420"
+    },
+    "contact": {
+        "phone": "982-726-4067x856",
+        "servicePhone": "800494876"
+    },
+    "birthday": "1949-22-08",
+    "ip": "145.238.189.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss success yes little star find media. Point none majority model increase artist. Such also blue later point describe.\nTake within necessary voice.",
+        "bio": "Should benefit hear group me because. Center their plan throughout beat inside community.\nAvailable system center sea data green. Add peace leg year enjoy might task."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
