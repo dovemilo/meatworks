@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Aguilar",
+    "age": 25,
+    "address": {
+        "street": "Salazar Falls",
+        "city": "New Timothy",
+        "state": "Georgia",
+        "zip": "05867"
+    },
+    "contact": {
+        "phone": "(816)733-4670",
+        "servicePhone": "800588973"
+    },
+    "birthday": "2000-17-02",
+    "ip": "45.180.21.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent tell dark summer. Enough goal write news increase cell. Strong bed commercial politics four toward.\nEvening commercial ahead debate step hair. Provide may adult it body.",
+        "bio": "Property edge strong. Indeed white find citizen. Change lay change defense will.\nTeacher sign expect finish bar. Open safe music class. Attack where show right official view whatever."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
