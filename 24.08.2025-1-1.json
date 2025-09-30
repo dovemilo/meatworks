@@ -1,0 +1,25 @@
+{
+    "name": "Christina Smith",
+    "age": 74,
+    "address": {
+        "street": "Delgado Tunnel",
+        "city": "Justinhaven",
+        "state": "South Carolina",
+        "zip": "70014"
+    },
+    "contact": {
+        "phone": "(728)336-3508x677",
+        "servicePhone": "800564082"
+    },
+    "birthday": "1951-10-01",
+    "ip": "70.147.123.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Board produce anything history attack. Ball former nice another serious long. Still summer exactly.",
+        "bio": "Wear cost current agent. Policy song bag project gas north.\nState case event. Provide method someone citizen whom girl church. Ground speech Mrs me. Identify move local tough."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
