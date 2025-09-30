@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Kane",
+    "age": 35,
+    "address": {
+        "street": "Mckenzie Throughway",
+        "city": "New Kimberly",
+        "state": "Pennsylvania",
+        "zip": "00920"
+    },
+    "contact": {
+        "phone": "549.332.0229x479",
+        "servicePhone": "800300999"
+    },
+    "birthday": "1990-03-05",
+    "ip": "38.247.127.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing agree meet wish way different. Five kind yourself morning which remain. Mr prove question important job community space.",
+        "bio": "Able individual fall different society. Whose born help late three job foreign perform. Information which trade ready candidate."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
