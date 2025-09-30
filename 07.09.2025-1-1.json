@@ -1,0 +1,25 @@
+{
+    "name": "Terri Harris DDS",
+    "age": 89,
+    "address": {
+        "street": "Mullen Trafficway",
+        "city": "Jacksonborough",
+        "state": "Massachusetts",
+        "zip": "47956"
+    },
+    "contact": {
+        "phone": "001-260-371-3052x4029",
+        "servicePhone": "800493258"
+    },
+    "birthday": "1936-18-04",
+    "ip": "33.61.81.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun party energy film organization.\nCurrent school night create provide research. Education same couple official appear. Entire book offer learn alone.",
+        "bio": "Push street tax off where quality history. Scene war phone owner writer.\nCold trial pick dinner buy be both. Prove church while. Than majority bank shoulder."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
