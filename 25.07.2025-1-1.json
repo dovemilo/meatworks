@@ -1,0 +1,25 @@
+{
+    "name": "Richard Lee",
+    "age": 56,
+    "address": {
+        "street": "Rogers Crossing",
+        "city": "South Sandy",
+        "state": "Alaska",
+        "zip": "46525"
+    },
+    "contact": {
+        "phone": "861-707-6065x767",
+        "servicePhone": "800483852"
+    },
+    "birthday": "1969-19-03",
+    "ip": "114.158.102.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish rise beautiful major project son. Not deal former only able maybe.\nYet last exist nor fire. Consumer late return compare dinner performance. Girl chance continue against allow black.",
+        "bio": "Represent now spend bring drive. Finally night control forget have school majority.\nDo sing treat meeting. Involve memory foot middle assume spend lead. Area contain remain someone response."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Barker",
+    "age": 108,
+    "address": {
+        "street": "Brandon Falls",
+        "city": "South Robertview",
+        "state": "Montana",
+        "zip": "96973"
+    },
+    "contact": {
+        "phone": "(567)664-5084x3910",
+        "servicePhone": "800653643"
+    },
+    "birthday": "1917-29-11",
+    "ip": "159.109.230.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy none the baby. Personal north look style.\nParty something care computer physical.",
+        "bio": "Garden move cup turn them also laugh. Building bit between season material animal exactly.\nCulture bit stay TV technology. Employee thank piece under ball stuff let wear."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
