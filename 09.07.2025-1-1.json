@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Barnes",
+    "age": 111,
+    "address": {
+        "street": "Torres Meadows",
+        "city": "Adkinsshire",
+        "state": "Delaware",
+        "zip": "81704"
+    },
+    "contact": {
+        "phone": "5575971006",
+        "servicePhone": "800467307"
+    },
+    "birthday": "1914-21-04",
+    "ip": "14.232.255.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Alone agency hotel evening however street treat. Spend week very step. Social unit big recently truth popular mind.\nCell model vote leave exactly.",
+        "bio": "Class house Congress quickly agree situation know. Laugh question same little conference. Read commercial dark game."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
