@@ -1,0 +1,25 @@
+{
+    "name": "Holly Bradshaw",
+    "age": 38,
+    "address": {
+        "street": "Lee Estate",
+        "city": "Hillmouth",
+        "state": "Illinois",
+        "zip": "72334"
+    },
+    "contact": {
+        "phone": "3543955824",
+        "servicePhone": "800544760"
+    },
+    "birthday": "1987-31-05",
+    "ip": "89.183.160.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning crime end popular. Federal when artist couple central involve wonder. Up edge claim speak thus.\nApproach nice moment everyone have. Experience worker rate specific sure.",
+        "bio": "Car American indeed sometimes mother. Particularly blue own growth."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
