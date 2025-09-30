@@ -1,0 +1,25 @@
+{
+    "name": "Walter Gibson",
+    "age": 78,
+    "address": {
+        "street": "Wise Roads",
+        "city": "Kevinhaven",
+        "state": "South Dakota",
+        "zip": "81063"
+    },
+    "contact": {
+        "phone": "+1-378-464-4150x083",
+        "servicePhone": "800548271"
+    },
+    "birthday": "1947-29-06",
+    "ip": "10.247.95.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry write your still itself. Expert good newspaper agreement amount. Key thing letter stock.\nVoice history stock yes scene outside. Suggest great sing.",
+        "bio": "Dark maintain scene reality study recognize team remember. By respond center develop chance well carry. Quite treat then million.\nThrow because not. Idea prevent community lead."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
