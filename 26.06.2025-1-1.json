@@ -1,0 +1,25 @@
+{
+    "name": "William Cohen",
+    "age": 64,
+    "address": {
+        "street": "Bray Common",
+        "city": "Andreaview",
+        "state": "South Dakota",
+        "zip": "11612"
+    },
+    "contact": {
+        "phone": "528.897.1136x10005",
+        "servicePhone": "800182641"
+    },
+    "birthday": "1961-24-06",
+    "ip": "183.226.138.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Role sing page public. Issue fish usually chance drug make firm.",
+        "bio": "Easy throw land record fight few news doctor. Goal themselves talk your.\nInside already direction. Begin garden world her."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

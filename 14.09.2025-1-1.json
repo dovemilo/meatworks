@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Baldwin",
+    "age": 52,
+    "address": {
+        "street": "Madison Park",
+        "city": "Lake Meghanhaven",
+        "state": "Florida",
+        "zip": "45938"
+    },
+    "contact": {
+        "phone": "(265)860-3414",
+        "servicePhone": "800858305"
+    },
+    "birthday": "1973-09-03",
+    "ip": "111.102.129.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Back himself rich per situation when drop. Rock organization my show chair. Skill network morning step face. Election nation book senior.",
+        "bio": "Must production director unit concern democratic. My former story television available newspaper necessary.\nDown not whatever firm. Mrs relate member probably deal your."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

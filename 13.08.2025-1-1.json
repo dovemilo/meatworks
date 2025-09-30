@@ -1,0 +1,25 @@
+{
+    "name": "Justin Jones",
+    "age": 111,
+    "address": {
+        "street": "Roger Meadow",
+        "city": "Leeberg",
+        "state": "California",
+        "zip": "09379"
+    },
+    "contact": {
+        "phone": "+1-542-208-2907",
+        "servicePhone": "800713165"
+    },
+    "birthday": "1914-24-02",
+    "ip": "70.144.87.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Science part wish cause tax light couple. Example practice son relate card upon I. Ago senior account enough.\nRise environmental always west eye instead. Order work she born theory.",
+        "bio": "Force man end we. Administration while although. But benefit idea treatment green what. Moment hold west.\nNatural social song main fear she event. Tend him other but technology. Cost ten individual."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

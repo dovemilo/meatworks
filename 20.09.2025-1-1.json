@@ -1,0 +1,25 @@
+{
+    "name": "Donna Elliott",
+    "age": 44,
+    "address": {
+        "street": "Heather Trail",
+        "city": "South Danielle",
+        "state": "California",
+        "zip": "60474"
+    },
+    "contact": {
+        "phone": "328-537-0259x01026",
+        "servicePhone": "800936102"
+    },
+    "birthday": "1981-17-02",
+    "ip": "47.184.63.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Town authority cup property. Writer piece able popular. Image clearly coach word challenge safe could.",
+        "bio": "Research pressure around Democrat. Pattern page need couple above position need. We among mention discussion condition become different. Test sit each beautiful chair."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Green",
+    "age": 38,
+    "address": {
+        "street": "William Fords",
+        "city": "Kochborough",
+        "state": "Florida",
+        "zip": "72668"
+    },
+    "contact": {
+        "phone": "001-234-437-2096",
+        "servicePhone": "800549874"
+    },
+    "birthday": "1987-09-08",
+    "ip": "53.65.83.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular president author major capital service herself. Realize fight yard cold always begin. Realize tonight a have. Authority group movie later table within western.",
+        "bio": "Somebody effort road traditional public catch story eye. Mouth family by direction example entire who. Election story window home. Decide on despite add run room magazine rate."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Adam Hall",
+    "age": 87,
+    "address": {
+        "street": "Jensen Greens",
+        "city": "Kimberlyport",
+        "state": "Vermont",
+        "zip": "08613"
+    },
+    "contact": {
+        "phone": "+1-364-741-1235x03865",
+        "servicePhone": "800841652"
+    },
+    "birthday": "1938-29-11",
+    "ip": "38.20.93.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave dark represent question help school. Involve benefit sit stop order strong.\nFar race week dog responsibility if. Financial region teacher.",
+        "bio": "Vote local huge sing. Couple magazine message much religious.\nLaw nature happen person management always hundred. Civil shoulder sort if analysis born where. Station under former staff onto majority."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
