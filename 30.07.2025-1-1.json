@@ -1,0 +1,25 @@
+{
+    "name": "David Buck",
+    "age": 19,
+    "address": {
+        "street": "Solis Port",
+        "city": "Port Ericton",
+        "state": "California",
+        "zip": "89319"
+    },
+    "contact": {
+        "phone": "987-304-1493x317",
+        "servicePhone": "800508430"
+    },
+    "birthday": "2006-26-12",
+    "ip": "165.126.91.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg operation also break style possible official. None west economy reason hear federal.\nUnderstand thus national most. Individual race close create.",
+        "bio": "Treat eight floor rest. Power people pass sit talk big miss. Exactly hold instead red mean us course.\nPerform quite before run letter. Hand deal team wear performance head."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
