@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer King",
+    "age": 97,
+    "address": {
+        "street": "Charles Gardens",
+        "city": "Davidland",
+        "state": "Maryland",
+        "zip": "30343"
+    },
+    "contact": {
+        "phone": "(514)801-2128",
+        "servicePhone": "800291976"
+    },
+    "birthday": "1928-23-05",
+    "ip": "75.85.227.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement executive case food she here. Detail guy as.\nRole film threat career be dog return. Story hard ball court amount open surface class. Fall Democrat meet him.",
+        "bio": "Its source line party. Will attack choose executive national skin. Floor claim ever serve involve all yeah."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}

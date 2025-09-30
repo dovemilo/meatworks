@@ -1,0 +1,25 @@
+{
+    "name": "David Romero",
+    "age": 74,
+    "address": {
+        "street": "Dean Radial",
+        "city": "Lake Beverlystad",
+        "state": "Missouri",
+        "zip": "62840"
+    },
+    "contact": {
+        "phone": "001-802-665-0845x0635",
+        "servicePhone": "800457010"
+    },
+    "birthday": "1951-16-08",
+    "ip": "205.46.13.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass training little leave third. Strategy television already education provide.\nBest our never arm. Heart produce poor clear politics like party.",
+        "bio": "Fly who short free show factor whom. Agency wall right hear experience.\nDrive these later from author morning. To available brother. Gun great these home others."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
